@@ -1,0 +1,38 @@
+{
+  "kategori": [
+    {
+      "nama-kategori": "pisang",
+      "kata kunci": "pisang",
+      "harga-barang": 1000
+    },
+    {
+      "nama-kategori": "piring",
+      "kata kunci": "piring",
+      "harga-barang": 2000
+    },
+    {
+      "nama-kategori": "apel",
+      "kata kunci": "apel",
+      "harga-barang": 9000
+    },
+    {
+      "nama-kategori": "angkot",
+      "kata kunci": "angkot",
+      "harga-barang": 12000
+    }
+  ],
+  "Daftar Belanja": [
+    {
+      "name": "pisang",
+      "quantity": 1,
+      "kategori": "pisang",
+      "price": 1000
+    },
+    {
+      "name": "angkot",
+      "quantity": 2,
+      "kategori": "angkot",
+      "price": 24000
+    }
+  ]
+}
